@@ -1,5 +1,5 @@
 # Advent of Code 2020
-Solutions and input files to the Advent of Code 2020 challenge beginning with day 3 will be collected here.
+My solutions and input files to the Advent of Code 2020 challenge beginning with day 3 will be collected here.
 Solutions to day 1 and 2 are in separate places:
 
 https://github.com/Netsie/AoC-2020-Day1
